@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GymStudio</string>
+
+    <string name="home_greeting_morning">Guten Morgen</string>
+    <string name="home_greeting_day">Guten Tag</string>
+    <string name="home_greeting_evening">Guten Abend</string>
+    <string name="home_subtitle">Dein Training – komplett offline, alle Daten bleiben auf deinem Gerät.</string>
+    <string name="action_plans">Trainingsplan</string>
+    <string name="action_exercises">Übungen</string>
+
+    <string name="settings">Einstellungen</string>
+    <string name="language">Sprache</string>
+    <string name="close">Schließen</string>
+    <string name="lang_title">Sprache wählen</string>
+    <string name="lang_de">Deutsch</string>
+    <string name="lang_en">English</string>
+
+    <string name="plans_title">Trainingsplan</string>
+    <string name="plans_prebuilt">Trainingspläne</string>
+    <string name="plans_create">Eigenen Trainingsplan erstellen</string>
+    <string name="library_title">Trainingspläne</string>
+
+    <string name="filter_goal">Ziel</string>
+    <string name="filter_category">Kategorie</string>
+    <string name="filter_duration">Zeit</string>
+    <string name="filter_level">Erfahrung</string>
+    <string name="filter_all">Alle</string>
+
+    <string name="goal_muscle">Muskelaufbau</string>
+    <string name="goal_strength">Kraft</string>
+    <string name="goal_endurance">Ausdauer</string>
+    <string name="goal_fat_loss">Abnehmen</string>
+
+    <string name="cat_full_body">Ganzkörper</string>
+    <string name="cat_upper_body">Oberkörper</string>
+    <string name="cat_lower_body">Unterkörper</string>
+    <string name="cat_chest">Brust</string>
+    <string name="cat_back">Rücken</string>
+    <string name="cat_legs">Beine</string>
+    <string name="cat_arms">Arme</string>
+    <string name="cat_core">Core</string>
+
+    <string name="level_beginner">Anfänger</string>
+    <string name="level_intermediate">Fortgeschritten</string>
+    <string name="level_expert">Experte</string>
+
+    <string name="duration_up_to_20">bis 20 min</string>
+    <string name="duration_up_to_45">bis 45 min</string>
+    <string name="duration_up_to_60">bis 60 min</string>
+    <string name="duration_over_60">über 60 min</string>
+
+    <string name="plan_custom">Eigen</string>
+    <string name="plan_exercises_count">%1$d Übungen</string>
+    <string name="minutes">%1$d min</string>
+
+    <string name="builder_title">Trainingsplan erstellen</string>
+    <string name="plan_name_hint">Name des Plans</string>
+    <string name="plan_goal_label">Ziel</string>
+    <string name="plan_category_label">Kategorie</string>
+    <string name="plan_duration_label">Dauer in Minuten</string>
+    <string name="plan_level_label">Erfahrungsstufe</string>
+    <string name="plan_description_hint">Beschreibung (optional)</string>
+    <string name="pick_exercises">Übungen auswählen</string>
+    <string name="selected_count">%1$d ausgewählt</string>
+    <string name="save">Speichern</string>
+    <string name="error_name_required">Bitte einen Namen angeben</string>
+    <string name="error_plan_needs_exercise">Füge mindestens eine Übung hinzu</string>
+
+    <string name="exercises_title">Übungen</string>
+    <string name="search_exercises">Übungen suchen</string>
+    <string name="add_exercise">Eigene Übung anlegen</string>
+    <string name="ex_name_hint">Name der Übung *</string>
+    <string name="ex_category_label">Kategorie</string>
+    <string name="ex_description_hint">Beschreibung</string>
+    <string name="ex_steps_label">Schritt-für-Schritt</string>
+    <string name="ex_step_hint">Schritt %1$d</string>
+    <string name="ex_hints_label">Hinweise</string>
+    <string name="ex_hint_hint">Hinweis %1$d</string>
+    <string name="add_step">Schritt hinzufügen</string>
+    <string name="add_hint">Hinweis hinzufügen</string>
+    <string name="icon_label">Symbol</string>
+
+    <string name="detail_description_title">Beschreibung</string>
+    <string name="detail_steps_title">Schritt für Schritt</string>
+    <string name="detail_hints_title">Hinweise</string>
+
+    <string name="settings_title">Einstellungen</string>
+    <string name="export_data">Daten exportieren</string>
+    <string name="import_data">Daten importieren</string>
+    <string name="theme_label">Erscheinungsbild</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Hell</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="offline_note">GymStudio arbeitet vollständig offline. Trainingsdaten werden ausschließlich auf diesem Gerät gespeichert.</string>
+    <string name="import_success">Import: %1$d Übungen und %2$d Pläne hinzugefügt, %3$d übersprungen</string>
+    <string name="import_error">Import fehlgeschlagen – die Datei ist kein gültiger GymStudio-Export</string>
+    <string name="export_success">Export erfolgreich</string>
+    <string name="export_error">Export fehlgeschlagen</string>
+
+    <string name="empty_plans">Keine Pläne gefunden – Filter anpassen oder eigenen Plan erstellen</string>
+    <string name="empty_exercises">Noch keine Übungen vorhanden</string>
+</resources>
